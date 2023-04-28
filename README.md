@@ -19,3 +19,5 @@ Some highlights related to code grading rubric:
 Our data is available at https://www.kaggle.com/competitions/pkdd-15-predict-taxi-service-trajectory-i/data?select=train.csv.zip
 
 The code for Swin Transformer is partly from: https://github.com/microsoft/Swin-Transformer
+
+Thanks to Professor Ungar, Professor Korald, TA Xinyue, and all the other TAs for their contributions this semester.
