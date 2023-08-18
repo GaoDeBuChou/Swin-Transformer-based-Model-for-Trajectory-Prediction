@@ -21,3 +21,5 @@ Our data is available at https://www.kaggle.com/competitions/pkdd-15-predict-tax
 The code for Swin Transformer is partly from: https://github.com/microsoft/Swin-Transformer
 
 Thanks to Professor Ungar, Professor Korald, TA Xinyue, and all the other TAs for their contributions this semester.
+
+The paper has been accepted for publication at the 2023 IEEE 26th International Conference on Intelligent Transportation Systems (ITSC) (ITSC 2023)!
